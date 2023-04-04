@@ -1,4 +1,6 @@
-# Hayat Çok Kısa ve Tarih Olmuş Yöntemlerle Eğitim Almak Zaman İsrafıdır
+# Evieplus Academy
+
+## Hayat Çok Kısa ve Tarih Olmuş Yöntemlerle Eğitim Almak Zaman İsrafıdır
 
 ## Online Yazılım Eğitimlerinin Önemi
 
