@@ -1,5 +1,7 @@
 # [Evieplus Academy](https://www.youtube.com/@evieplusAcademy)
 
+### - [Python Komple Eğitim Serisi](https://youtu.be/-NcgZe34gB0)
+
 ## Hayat Çok Kısa ve Tarih Olmuş Yöntemlerle Eğitim Almak Zaman İsrafıdır
 
 ## Online Yazılım Eğitimlerinin Önemi
