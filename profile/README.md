@@ -40,3 +40,4 @@ Hayat çok kısa ve tarih olmuş yöntemlerle eğitim almak zaman israfıdır. O
 ### - [Python Komple Eğitim Serisi Tanıtımı](https://youtu.be/-NcgZe34gB0)
 ### - [Python Dersleri: 2 - YAZILIM DİLLERİ](https://youtu.be/K0pVKH3Kyzo)
 ### - [Python Dersleri: 3 - PYTHON NEDİR?](https://youtu.be/Iqa09jmp62M)
+### - [Python Dersleri: 4 - PYTHON KURULUMU ve PYCHARM KURULUMU](https://youtu.be/pQuaQ_5lMj0)
