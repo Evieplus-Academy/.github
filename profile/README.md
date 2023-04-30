@@ -43,3 +43,4 @@ Hayat çok kısa ve tarih olmuş yöntemlerle eğitim almak zaman israfıdır. O
 ### - [Python Dersleri: 4 - PYTHON KURULUMU ve PYCHARM KURULUMU](https://youtu.be/pQuaQ_5lMj0)
 ### - [Python Dersleri: 5 - PYTHON'A BAŞLIYORUZ?](https://youtu.be/xG3s3bImmYs)
 ### - [Python Dersleri: 6 - STRING](https://youtu.be/rSYhE0o5nvI)
+### - [Python Dersleri: 7 - PRINT() ve INPUT() FONKSİYONLARI](https://youtu.be/Mv2OhU24QbQ)
