@@ -46,4 +46,4 @@ Hayat çok kısa ve tarih olmuş yöntemlerle eğitim almak zaman israfıdır. O
 ### - [Python Dersleri: 7 - PRINT() ve INPUT() FONKSİYONLARI](https://youtu.be/Mv2OhU24QbQ)
 ### - [Python Dersleri: 8 - VERİ TİPLERİ](https://youtu.be/edH6OOWn2B8)
 ### - [Python Dersleri: 9 - VERİ TİPİ DÖNÜŞÜMÜ](https://youtu.be/RJ303iOXnFM)
-
+### - [Python Dersleri: 10 - F-STRING](https://youtu.be/H4A-ZHytm9s)
