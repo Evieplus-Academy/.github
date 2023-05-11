@@ -36,7 +36,7 @@ e. Güncel Bilgi ve Teknolojiye Erişim: Online yazılım eğitimleri, sürekli 
 Hayat çok kısa ve tarih olmuş yöntemlerle eğitim almak zaman israfıdır. Online yazılım eğitimleri, geleneksel eğitim yöntemlerinin sınırlılıklarını aşarak, bireylerin zamanlarını en verimli şekilde kullanmalarına ve kendilerini sürekli geliştirmelerine olanak sağlar. Bu nedenle, online eğitim kurumlarının sunduğu yazılım eğitimlerinin önemi gün geçtikçe artmaktadır. Özellikle teknoloji ve bilgi çağında yaşadığımız bu dönemde, online yazılım eğitimlerine katılarak kendimizi sürekli güncel tutmak ve geleceğe hazırlamak büyük önem taşımaktadır.
 
 # Discord Kanalı
-## [evieplus Academy Discord](https://discord.gg/a3hXkSxqZm)
+### [evieplus Academy Discord](https://discord.gg/a3hXkSxqZm)
 
 # Python Komple Eğitim Serisi
 
