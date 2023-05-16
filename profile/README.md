@@ -50,3 +50,4 @@ Hayat çok kısa ve tarih olmuş yöntemlerle eğitim almak zaman israfıdır. O
 ### - [Python Dersleri: 8 - VERİ TİPLERİ](https://youtu.be/edH6OOWn2B8)
 ### - [Python Dersleri: 9 - VERİ TİPİ DÖNÜŞÜMÜ](https://youtu.be/RJ303iOXnFM)
 ### - [Python Dersleri: 10 - F-STRING](https://youtu.be/H4A-ZHytm9s)
+### - [Python Dersleri: 11 - STRING METOTLARI](https://youtu.be/T7HJqpRZb7s)
