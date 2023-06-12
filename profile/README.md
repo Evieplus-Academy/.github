@@ -55,3 +55,4 @@ Hayat çok kısa ve tarih olmuş yöntemlerle eğitim almak zaman israfıdır. O
 ### - [Python Dersleri: 13 - MATH MODÜLÜ](https://youtu.be/UYFbuGot_kU)
 ### - [Python Dersleri: 14 - IF KOMUTU](https://youtu.be/4Gsw3EzATzI)
 ### - [Python Dersleri: 15 - MANTIK OPERATÖRLERİ](https://youtu.be/egr98Od0_w8)
+### - [Python Dersleri: 16 - WHILE DÖNGÜSÜ](https://youtu.be/DwU-95fF0og)
